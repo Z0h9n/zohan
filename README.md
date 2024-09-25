@@ -14,8 +14,6 @@
 
 * `pip install mechanize`
 
-* `rm -rf zohan`
-
 * `git clone https://github.com/Z0h9n/zohan`
 
 * `cd zohan`
