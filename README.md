@@ -14,7 +14,7 @@
 
 * `pip install mechanize`
 
-* `git clone https://github.com/Z0h9n/zohan`
+* `git clone https://github.com/Z0h9n/zohan.git`
 
 * `cd zohan`
 
